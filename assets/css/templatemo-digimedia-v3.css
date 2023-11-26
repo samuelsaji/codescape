@@ -685,7 +685,7 @@ header
     padding: 0px;
   }
   .header-area .logo {
-    margin-left: 30px;
+    margin-left: 1%;
   }
   .header-area .menu-trigger {
     display: block !important;
@@ -1892,7 +1892,7 @@ form#contact button {
   font-weight: 400;
   color: #4da6e7;
   margin-top: 30px;
-  width: 300px;
+  width: 230px;
   text-transform: capitalize;
   padding: 12px 25px;
   border-radius: 23px;
